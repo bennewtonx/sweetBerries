@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Sweet Berries Cooking School</title>
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@500;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="sweetBerriesStylesheet.css">
+
+</head>
+
+<body>
+
+    <div class="nav">
+
+        <p>Courses</p>
+        <p>About us</p>
+        <img src="sweet-berries-logo.png">
+        <button>Get Started</button>
+
+    </div>
+
+    <div class="firstGrid-container">
+    <div class="header">
+
+        <h1>Discover Your Perfect Online Cooking Course</h1>
+        <p1>All our courses are designed to give you an exceptional learning
+          experience, with hands-on video sessions and personal mentorship
+          from expert Sweet Berries instructors.</p1>
+
+    </div>
+     <div class="mainImage">
+
+        <img src="sweet-berries-banner.png">
+
+    </div>
+    </div>
+
+    <div class="secondGrid-container">
+
+    <div class="popularCookingCourses">
+
+        <h2>Explore our most popular cooking courses!</h2>
+
+    </div>
+
+    <div class="tiles">
+
+        <img src="knife.png">
+        <h3>Chef Skills</h3>
+        <p2>Master the skills and techniques that will take your culinary abilities
+            to the next level and help you excel in the food industry.</p2>
+        <button>Get Started</button>
+
+     </div>
+     <div class="tiles">
+
+        <img src="cooking-pot.png">
+        <h3>Cooking Essentials</h3>
+        <p2>Learn the essential skills and techniques that will lead to a lifetime
+            of restaurant-quality cooking.</p2>
+        <button>Get Started</button>
+
+     </div>
+     <div class="tiles">
+
+        <img src="clipboard-text.png">
+        <h3>Nutrition in Cooking</h3>
+        <p2>Master cookery and nutrition skills for health and wellbeing with this
+            20-week Accredited Online Nutrition Course.</p2>
+        <button>Get Started</button>
+
+     </div>
+     <div class="tiles">
+
+        <img src="leaf.png">
+        <h3>Plant-Based Cooking</h3>
+        <p2>Learn the skills and techniques that will lead to a lifetime of plant-based
+            and planet-friendly meals.</p2>
+        <button>Get Started</button>
+     
+     </div>
+     <div class="tiles">
+
+        <img src="hamburger.png">
+        <h3>Teen's Kitchen</h3>
+        <p2>Teen's Kitchen is a 6-week immersive and interactive online cookery course and
+            certificate exclusively for young adults aged 13-18.</p2>
+        <button>Get Started</button>
+
+     </div>
+     </div>
+
+</body>
+
+    <div class="footer">
+
+        <img src="sweet-berries-logo.png">
+
+    </div>
+</html>
